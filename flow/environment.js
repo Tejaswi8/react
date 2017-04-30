@@ -15,6 +15,7 @@ declare var __REACT_DEVTOOLS_GLOBAL_HOOK__: any; /*?{
   inject: ?((stuff: Object) => void)
 };*/
 
+
 // temporary patches for React.Component and React.Element
 declare var ReactComponent: typeof React$Component;
 declare var ReactElement: typeof React$Element;
